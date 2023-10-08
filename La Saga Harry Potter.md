@@ -1,6 +1,8 @@
 # La saga Harry Potter
 >
-Découvrez et naviguez sur un site dédié à Harry Potter.
+~~~~
+Découvrez et naviguez sur un site dédié à Harry Potter. 
+~~~~
 * **Sommaire**
   * [La Saga Harry Potter](https://github.com/ChloeBED/Harry-Potter/blob/dd93c5801cb7e20a4156e28525688684d00c40ec/La%20Saga%20Harry%20Potter.md)
   * [Chapitres](https://github.com/ChloeBED/Harry-Potter/blob/5740c86882846011fdfaadc115edbddbeb129c97/Chapitres.md)
