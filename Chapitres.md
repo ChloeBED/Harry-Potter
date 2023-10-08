@@ -58,7 +58,11 @@ Devant l’insistance de Harry, Horace Slughorn confesse honteux qu’il a permi
 > Le roman est sorti en 2007 et a été adapté en deux films sortis en 2010 et en 2011.
 >> Cette année, Harry a 17 ans et ne retourne pas à l'école de Poudlard après la mort de Dumbledore. Avec Ron et Hermione il se consacre à la dernière mission confiée par Dumbledore, la chasse aux Horcruxes. Mais le Seigneur des Ténèbres règne en maître et traque les trois fidèles amis qui seront réduits à la clandestinité. D'épreuves en révélations, le courage, les choix et les sacrifices de Harry seront déterminants dans la lutte contre les forces du Mal.
 >
-
+* * * 
+>
+Voici les différentes affiches de la saga Harry Potter.
+>
+![Films]
 
 
 
