@@ -35,8 +35,20 @@ _Ils y resteront jusqu'à la fin de leurs études._
 >>**Les matières enseignées**
 >
 Tous les élèves doivent étudier sept matières : la métamorphose, les sortilèges, les potions, l'histoire de la magie, la défense contre les forces du Mal, l'astronomie et la botanique. Les élèves de première année doivent également étudier les leçons de vol (sur balai).Pour leur troisième année, les élèves doivent choisir un minimum de deux autres matières dans la liste suivante : l'arithmancie, l'étude des Moldus, la divination, l'étude des Runes ou/et les soins aux créatures magiques. Des matières très spécialisées, comme l'alchimie sont parfois proposées dans les deux dernières années, si la demande est suffisante.
-
-
+>
+### Les adaptations d'Harry Potter 
+>
+Comme dit auparavant, les septs romans ont été adaptés en films mais ce n'est pas tout car un véritable univers s'est développé autour de la saga. En novembre 2021, le site WizardingWorld.com annonce le tournage d'une émission de rétrospective intitulée Return to Hogwarts (« Retour à Poudlard »), qui célèbre les 20 ans du premier film de la franchise. À cette occasion, Daniel Radcliffe, Rupert Grint et Emma Watson retournent au Warner Bros. Studio Tour de Londres, de même que de nombreux autres acteurs et membres de l'équipe, pour y évoquer notamment le phénomène culturel Harry Potter et leurs souvenirs de tournage.
+>
+>>**Série télévisée**
+>
+Le 12 avril 2023, HBO annonce la production d'une série télévisée Harry Potter, avec une nouvelle distribution. Il est prévu qu'elle comporte sept saisons (une saison par roman), produites sur une dizaine d'années, et que J. K. Rowling en soit la productrice exécutive avec ses collaborateurs Neil Blair et Ruth Kenley-Letts. En avril 2023, David Heyman, le producteur historique de la franchise cinématographique, est en discussions pour participer au projet, et son implication est confirmée cinq mois plus tard, lorsqu'il annonce que lui et son équipe n'ont pas encore trouvé de scénariste pour cette nouvelle série et qu'il espère cette fois pouvoir faire « explorer les livres plus en détails »
+>
+>>**Théâtre**
+>
+Une pièce de théâtre intitulée Harry Potter et l'Enfant maudit est jouée en deux parties (de 2 h 30 chacune) au Palace Theatre à Londres, à partir du 31 juillet 2016. Elle a été écrite par Jack Thorne et mise en scène par John Tiffany, en collaboration avec J. K. Rowling. Le script de la pièce est également publié le même jour au Royaume-Uni, puis le 14 octobre en France.
+La représentation de la pièce à Londres est bien accueillie en raison de la mise en scène très pointilleuse de Tiffany et de son décor à grand budget : le spectateur retrouve sur scène notamment les escaliers mouvants, les portraits parlants, etc. Le script de la pièce est en revanche très fréquemment qualifié de « fanfiction » en raison de son trop grand nombre d'incohérences et de « dialogues mièvres », en comparaison de l'histoire originelle de J. K. Rowling
+>
 
 
 
