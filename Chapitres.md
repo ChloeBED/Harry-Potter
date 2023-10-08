@@ -62,7 +62,10 @@ Devant l’insistance de Harry, Horace Slughorn confesse honteux qu’il a permi
 >
 Voici les différentes affiches de la saga Harry Potter.
 >
-![Films]
+![Films](https://github.com/ChloeBED/Harry-Potter/blob/main/Harry-potter-films.png)
+>
+>
+* * * 
 
 
 
