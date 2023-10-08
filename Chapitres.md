@@ -31,4 +31,34 @@ Voici à quoi ressemble le chateau de Poudlard. ![Poudlard](https://github.com/C
 >
 * * * 
 >
+Voici à quoi ressemble la Coupe de feu.
+>
+![Coupe](https://github.com/ChloeBED/Harry-Potter/blob/main/27-02-2018-blog-Harry_Potter_and_the_Goblet_of_Fire_at_Warner_Bros_Studio_Tour_London_1_large.jpeg)
+> 
+>
+* * * 
+>
+> ## Harry Potter et l'Ordre du Phénix
+>
+> Le roman est sorti en 2003 et a été adapté en film en 2007.
+>> Harry, Ron et Hermione retournent à Poudlard, où un nouveau professeur de défense contre les forces du mal, Dolores Ombrage, engagée par le ministre de la Magie lui-même, ne tarde pas à instaurer des règles très strictes sur l'école, interdisant aux élèves de pratiquer la magie, de se rassembler en groupe ou de lire certains articles de presse défendant le point de vue de Harry Potter sur le retour de Voldemort. Hermione décide d'agir et de fonder une seconde organisation au sein-même de l'école, l'Armée de Dumbledore, pour contrer Ombrage et inciter les élèves volontaires à pratiquer la magie pour apprendre à se défendre face aux dangers extérieurs que les autorités souhaitent taire. À la fin de l'année, piégé par Voldemort, Harry se rend au ministère de la Magie où il pense que son parrain est détenu et torturé. Il est accompagné de Ron, Hermione, Ginny Weasley, Luna Lovegood et Neville Londubat. Severus Rogue prévient les autres membres de l’Ordre, qui se précipitent au secours de Harry et de ses amis aux prises avec les mangemorts. Sirius Black meurt durant la bataille, tué par sa propre cousine et bras droit de Voldemort. De retour à Poudlard, Harry apprend le contenu de la prophétie qui le concernait depuis sa naissance : il est la seule personne à avoir une chance de vaincre définitivement Voldemort6. Après les événements du ministère dont il a été témoin, le ministre Cornelius Fudge admet enfin le retour de Voldemort et la deuxième guerre débute officiellement.
+>
+* * * 
+>
+## Harry Potter et le Prince de sang-mêlé 
+>
+> Le roman est sorti en 2005 et est adapté en film en 2009.
+>> Voldemort est de retour. Dumbledore cherche à convaincre le professeur Horace Slughorn de reprendre du service à Poudlard. Il souhaite aussi qu’Harry Potter se débrouille pour devenir son nouveau protégé. Le magicien a une idée derrière la tête : Horace Slughorn fut l’enseignant de Tom Riddle, devenu plus tard Voldemort.Dumbledore soupçonne le professeur d’avoir aidé malgré lui son étudiant à devenir le Prince des Ténèbres. Harry doit fouiller dans ses souvenirs pour percer le secret de Voldemort.Du côté sombre, le professeur Severus Rogue est pressé par Bellatrix Lestrange de prêter serment pour aider le jeune Drago Malefoy à accomplir sa mission. Rogue s’execute.À la rentrée des classes, Harry se procure le livre de potions d’un mystérieux prince de Sang-Mêlé. Ce qui lui permet d’exceller dans la matière et devenir le chouchou de Slughorn.Le château ressemble de plus en plus à la clinique de la forêt blanche. Les tourments du coeur s’emparent des étudiants. Cormac McLaggen court après Hermione Granger qui en pince secrètement pour Ron Weasley pourchassé par Lavande Brown et dont la soeur Ginny est amoureuse de Harry – que Dumbledore aurait pourtant bien vu avec Hermione.
+Devant l’insistance de Harry, Horace Slughorn confesse honteux qu’il a permis à Tom Riddle de créer des Horcruxes, sorte de talismans permettant aux magiciens qui les ensorcelle de vivre pour l’éternité. Voldemort en a caché sept. Il en reste encore cinq à trouver.La fameuse mission de Drago Malefoy est de tuer directeur de l’école. Il s’en montre cependant incapable. Severus Rogue, qui se révèle être le Prince de sang mêlé, se charge de cette tâche ingrate, presque imploré par Dumbledore en personne.
+>
+* * * 
+>
+## Harry Potter et les Reliques de la Mort
+>
+> Le roman est sorti en 2007 et a été adapté en deux films sortis en 2010 et en 2011.
+>> Cette année, Harry a 17 ans et ne retourne pas à l'école de Poudlard après la mort de Dumbledore. Avec Ron et Hermione il se consacre à la dernière mission confiée par Dumbledore, la chasse aux Horcruxes. Mais le Seigneur des Ténèbres règne en maître et traque les trois fidèles amis qui seront réduits à la clandestinité. D'épreuves en révélations, le courage, les choix et les sacrifices de Harry seront déterminants dans la lutte contre les forces du Mal.
+>
+
+
+
 
