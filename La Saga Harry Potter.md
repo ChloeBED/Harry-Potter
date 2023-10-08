@@ -1,5 +1,10 @@
 # La saga Harry Potter
 >
+Découvrez et naviguez sur un site dédié à Harry Potter.
+* Sommaire
+  * [La Saga Harry Potter]
+  * [Chapitres]
+  * [Personnages](https://github.com/ChloeBED/Harry-Potter/blob/d69397703b7629a2ed3a09b4697b28c5e32b3f2a/Personnages.md)
 * * * 
 ![imageHP](https://github.com/ChloeBED/Harry-Potter/blob/main/pngwing.com.png)
 * * *
