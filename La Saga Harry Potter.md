@@ -1,7 +1,7 @@
 # La saga Harry Potter 🪄
 >
 ~~~~
-Découvrez et naviguez sur un site dédié à Harry Potter. 
+Naviguez sur un site dédié à Harry Potter. 
 ~~~~
 
 * **Sommaire**
