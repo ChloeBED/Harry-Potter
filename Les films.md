@@ -66,7 +66,7 @@ Voici les différentes affiches de la saga Harry Potter.
 >
 >
 * * * 
-[Quelques personnages](https://github.com/ChloeBED/Harry-Potter/blob/d69397703b7629a2ed3a09b4697b28c5e32b3f2a/Personnages.md)
+Page suivante [Quelques personnages](https://github.com/ChloeBED/Harry-Potter/blob/d69397703b7629a2ed3a09b4697b28c5e32b3f2a/Personnages.md)
 >
 >
 
