@@ -9,7 +9,7 @@ Naviguez sur un site dédié à Harry Potter.
   * [Chapitres](https://github.com/ChloeBED/Harry-Potter/blob/5740c86882846011fdfaadc115edbddbeb129c97/Chapitres.md)
   * [Personnages](https://github.com/ChloeBED/Harry-Potter/blob/d69397703b7629a2ed3a09b4697b28c5e32b3f2a/Personnages.md)
 * * * 
-![imageHP](https://github.com/ChloeBED/Harry-Potter/blob/main/pngwing.com.png)
+![imageHP](https://user-images.githubusercontent.com/144808157/273626414-3af68c23-3c1b-4b0d-b22e-812a067ce4af.png)
 * * *
 >
 *Mais c'est quoi ~~Harry Pot de Fleur~~ euhhh Harry Potter?* 😄
