@@ -33,7 +33,7 @@ Voici à quoi ressemble le chateau de Poudlard. ![Poudlard](https://user-images.
 >
 Voici à quoi ressemble la Coupe de feu.
 >
-![Coupe](https://github.com/ChloeBED/Harry-Potter/blob/main/27-02-2018-blog-Harry_Potter_and_the_Goblet_of_Fire_at_Warner_Bros_Studio_Tour_London_1_large.jpeg)
+![Coupe](https://user-images.githubusercontent.com/144808157/273626399-4fcf28ab-114c-48ec-ba3b-d663ccbca332.jpeg)
 > 
 >
 * * * 
@@ -62,7 +62,7 @@ Devant l’insistance de Harry, Horace Slughorn confesse honteux qu’il a permi
 >
 Voici les différentes affiches de la saga Harry Potter.
 >
-![Films](https://github.com/ChloeBED/Harry-Potter/blob/main/Harry-potter-films.png)
+![Films](https://user-images.githubusercontent.com/144808157/273626409-e13d2007-82b8-425f-a0d8-746d6e97133f.png)
 >
 >
 * * * 
