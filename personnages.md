@@ -79,5 +79,5 @@ Voici une image représentant une grande partie des personnages des films de la 
 >
 ***
 >
-Retour à la page d'accueil  [Saga Harry Potter](https://github.com/ChloeBED/Harry-Potter/blob/5e81489251cfceadfc68c12e4074d17a52fecaf7/Index.md)
+Retour à la page d'accueil  [Saga Harry Potter](https://github.com/ChloeBED/Harry-Potter/blob/84534dbc9e3aa2996d73088213c18f0c451d56f3/index.md)
  
