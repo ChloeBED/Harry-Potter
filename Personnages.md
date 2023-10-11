@@ -76,4 +76,8 @@ Voici une image représentant une grande partie des personnages des films de la 
 > > >
 ![HP](https://user-images.githubusercontent.com/144808157/273629936-469350c3-972b-4c80-895c-2009cbdd8053.jpeg)
 >
+>
+***
+>
+Retour à la page d'accueil  [Index](https://github.com/ChloeBED/Harry-Potter/blob/5e81489251cfceadfc68c12e4074d17a52fecaf7/Index.md)
  
