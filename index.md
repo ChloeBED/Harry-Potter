@@ -56,7 +56,7 @@ La représentation de la pièce à Londres est bien accueillie en raison de la m
 Pour plus d'informations, consulter la page [Harry Potter](https://fr.wikipedia.org/wiki/Harry_Potter) sur Wikipédia ou le site officiel du monde d'Harry Potter [Wizardingworld](https://www.wizardingworld.com). 
 >
 * * *
-Page suivante [Chapitres](https://github.com/ChloeBED/Harry-Potter/blob/028fb5077a64899b5f7f09d035d350d1fe8fada0/Chapitres.md)
+Page suivante [Chapitres](https://github.com/ChloeBED/Harry-Potter/blob/0a6359f80fc964be58ebe75606df15edebf03cc9/films.md)
 > 
 > 
 
