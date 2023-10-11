@@ -7,7 +7,7 @@ Naviguez sur un site dédié à Harry Potter.
 * **Sommaire**
   * [Saga Harry Potter](https://github.com/ChloeBED/Harry-Potter/blob/5e81489251cfceadfc68c12e4074d17a52fecaf7/Index.md)
   * [Chapitres](https://github.com/ChloeBED/Harry-Potter/blob/bb62f02ab7cf1d41984ae249c2883309f10d7994/films.md)
-  * [Personnages](https://github.com/ChloeBED/Harry-Potter/blob/d69397703b7629a2ed3a09b4697b28c5e32b3f2a/Personnages.md)
+  * [Personnages](https://github.com/ChloeBED/Harry-Potter/blob/84534dbc9e3aa2996d73088213c18f0c451d56f3/personnages.md)
 * * * 
 ![imageHP](https://user-images.githubusercontent.com/144808157/273626414-3af68c23-3c1b-4b0d-b22e-812a067ce4af.png)
 * * *
