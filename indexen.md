@@ -5,9 +5,9 @@ Navigate a website dedicated to Harry Potter.
 ~~~~
 
 * **Summary**
-  * [The Harry Potter Saga](index.md)
-  * [Movies](films.md)
-  * [Characters](personnages.md)
+  * [The Harry Potter Saga](indexen.md)
+  * [Movies](movies.md)
+  * [Characters](characters.md)
 * * * 
 ![imageHP](https://user-images.githubusercontent.com/144808157/273626414-3af68c23-3c1b-4b0d-b22e-812a067ce4af.png)
 * * *
@@ -59,7 +59,7 @@ The London production was well received due to Tiffany’s meticulous direction 
 For more information, visit the [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) page on Wikipedia or on the official *Wizarding World* website [Wizardingworld](https://www.wizardingworld.com). 
 >
 * * *
-Next page [Movies](films.md)
+Next page [Movies](movies.md)
 > 
 > 
 
