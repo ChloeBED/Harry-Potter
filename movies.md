@@ -64,7 +64,7 @@ Here are the official movie posters for the Harry Potter saga:
 >
 >
 * * * 
-Next page [Some of the characters](characters.md)
+Next page [Some characters](characters.md)
 >
 >
 
